@@ -11,6 +11,7 @@
 		2EEE27B72B6550C800F4E74B /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EEE27B62B6550C800F4E74B /* DetailView.swift */; };
 		2EEE27B92B6550CA00F4E74B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EEE27B82B6550CA00F4E74B /* Assets.xcassets */; };
 		2EEE27BC2B6550CA00F4E74B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EEE27BB2B6550CA00F4E74B /* Preview Assets.xcassets */; };
+		2EEE27C52B65E32300F4E74B /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EEE27C42B65E32300F4E74B /* Landmark.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2EEE27B62B6550C800F4E74B /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		2EEE27B82B6550CA00F4E74B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EEE27BB2B6550CA00F4E74B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2EEE27C42B65E32300F4E74B /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		2EEE27C32B65518900F4E74B /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				2EEE27C42B65E32300F4E74B /* Landmark.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			files = (
 				2EEE27B72B6550C800F4E74B /* DetailView.swift in Sources */,
 				2EEE27B52B6550C800F4E74B /* LandmarksApp.swift in Sources */,
+				2EEE27C52B65E32300F4E74B /* Landmark.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
